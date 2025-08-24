@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Terikoti Harshitha 👋
+  
+💻 Languages I know: Python | Java | C  
+📫 Reach me: harshitha091206@gmail.com  
 
-<!--
-**HarshithaLikitha/HarshithaLikitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Programming: Python, Java, C
+- Web: HTML, CSS, JavaScript
+- Databases: MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
